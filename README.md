@@ -5,5 +5,5 @@ Initial Repository
 *First file is my current general resume*
 ###### Links within file:
 - [LinkedIn](https://www.linkedin.com/in/brendan-t-sullivan/)  
-- [GitHub](github.com/btsully/)
+- [Email](mailto:btsullivan@uiowa.edu)
 
