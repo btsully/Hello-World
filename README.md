@@ -1,5 +1,7 @@
 # Hello-World
-Initial Repository
+**Initial Repository**
+This is my first repository which I used to experiment with GitHub and formatting in README
+
 
 ## Attached Files
 *First file is my current general resume*
