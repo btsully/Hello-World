@@ -4,14 +4,14 @@
 This is my first repository which I used to experiment with GitHub and formatting in README
 
 ## Table of contents
-- [ATTACHED FILES](#Attached-Files)
-- [THANK YOU](#Thank-You)
+- [Links](#Links)
+- [Thank You](#Thank-You)
   
-## Attached Files
-*First file is my current general resume*
-###### Links within file:
+## Links
+
+###### To reach me:
 - [LinkedIn](https://www.linkedin.com/in/brendan-t-sullivan/)  
-- [Email](mailto:btsullivan@uiowa.edu)
+- [Email](mailto:brendantsullivan14@gmail.com)
 
 ## Thank You
 ###### Thanks for checking out my initial repository!
